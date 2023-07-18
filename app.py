@@ -14,10 +14,10 @@ image_link = "https://hips.hearstapps.com/hmg-prod/images/beautiful-smooth-haire
 user_bio = "Middle East Entrepreneurs of Tomorrow. Enabling the next generation of Israeli and Palestinian leaders."
 
 posts = {
-    "https://i.imgur.com/1dSgGnG.png": "The cohort of 2022!",
-    "https://i.imgur.com/CPEvMk0.jpg": "MEET graduation!",
-    "https://i.imgur.com/Cb7LK9o.jpg": "#MEET_HACKATHON",
-    "https://i.imgur.com/S5A93Wt.jpg": "Class of 2024's Y1 closing event cohort"
+    "https://images.saymedia-content.com/.image/t_share/MTk2NzY3MjA5ODc0MjY5ODI2/top-10-cutest-cat-photos-of-all-time.jpg": "Small cat",
+    "https://t4.ftcdn.net/jpg/00/97/58/97/360_F_97589769_t45CqXyzjz0KXwoBZT9PRaWGHRk5hQqQ.jpg": "cat stare",
+    "https://t4.ftcdn.net/jpg/03/03/62/45/360_F_303624505_u0bFT1Rnoj8CMUSs8wMCwoKlnWlh5Jiq.jpg": "cat sunglasses",
+    "https://images.squarespace-cdn.com/content/v1/62a39d94533ec9640a7f1042/1673553575786-8ZNDZCSHQX6B14YHV8EF/fat+cat.jpg": "cute fat cat"
 }
 
 #####
