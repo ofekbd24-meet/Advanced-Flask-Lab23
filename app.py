@@ -9,7 +9,7 @@ app = Flask(  # Create a flask app
 )
 
 # Variables for tasks
-image_link = "https://i.imgur.com/o9Znt5k.png"
+image_link = "https://hips.hearstapps.com/hmg-prod/images/beautiful-smooth-haired-red-cat-lies-on-the-sofa-royalty-free-image-1678488026.jpg"
 
 user_bio = "Middle East Entrepreneurs of Tomorrow. Enabling the next generation of Israeli and Palestinian leaders."
 
@@ -17,15 +17,15 @@ posts = {
     "https://i.imgur.com/1dSgGnG.png": "The cohort of 2022!",
     "https://i.imgur.com/CPEvMk0.jpg": "MEET graduation!",
     "https://i.imgur.com/Cb7LK9o.jpg": "#MEET_HACKATHON",
-    "https://i.imgur.com/S5A93Wt.jpg": "Class of 2024's Y1 closing event cohort"}
-
+    "https://i.imgur.com/S5A93Wt.jpg": "Class of 2024's Y1 closing event cohort"
+}
 
 #####
 
 
 @app.route('/')  # '/' for the default page
 def home():
-    return render_template('index.html')
+    return render_template('index.html', image_link=image_link, user_bio=user_bio, posts=posts)
 
 
 @app.route('/about')  # '/' for the default page
